@@ -10,6 +10,7 @@ import Footer2 from "./Components/Footternew/Footer2";
 import NavNew from "./Components/NavbarNew/NavNew";
 import {motion} from 'framer-motion';
 
+
 function App() {
   return (
     <div>
